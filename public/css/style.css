@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  margin-top: 15%;
+  text-transform: uppercase;
+}
+
+button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: none;
+}
