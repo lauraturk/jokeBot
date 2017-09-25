@@ -3,5 +3,5 @@
 ## To Run
 * clone down this repo
 * create an api.ai account and add the account token and a session token to a .env file
-* session token may be randomized or set to '1234' for dinking around purposelatidas
+* session token may be randomized or set to '1234' for dinking around purposelatidhahahahas
 * to start ```node -r dotenv/config index.js```
